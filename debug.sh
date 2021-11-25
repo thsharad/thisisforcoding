@@ -1,6 +1,6 @@
 chmod +x debug.sh
 cd /
-cd sh-files
+cd bash-files
 ./server.sh
 
 
