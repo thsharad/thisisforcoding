@@ -1,5 +1,5 @@
 chmod +x publish.sh
 cd /
-cd sh-files
-./git.sh dromer  
+cd bash-files
+./git.sh Codebase 
 
