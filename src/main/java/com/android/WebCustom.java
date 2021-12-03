@@ -12,6 +12,12 @@ public boolean checkerce(){
     return true;
 }
 
+public boolean printsomthing()
+{
+
+System.out.println("hello");
+return true;
+}
    
 }
 
